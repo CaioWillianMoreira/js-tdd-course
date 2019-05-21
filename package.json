@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CaioWillianMoreira/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/CaioWillianMoreira/js-tdd-course#readme"
+  "homepage": "https://github.com/CaioWillianMoreira/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
